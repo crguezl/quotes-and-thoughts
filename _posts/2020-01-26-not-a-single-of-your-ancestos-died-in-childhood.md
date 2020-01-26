@@ -27,7 +27,11 @@ Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 19
 
 > Medawar's theory was critiqued and later further developed by **George C. Williams in 1957**. Williams noted that **senescence** may be causing many deaths even if animals are not 'dying of old age.' He began his hypothesis with the idea that ageing can cause earlier senescence due to the competitive nature of life. Even a small amount of ageing can be fatal; hence natural selection does indeed care and ageing is not cost-free.
 
-> Williams eventually proposed his own hypothesis called **antagonistic pleiotropy**. *Pleiotropy, alone, means one mutation that cause multiple effects on phenotype*. Antagonistic pleiotropy on the other hand deals with one gene that creates two traits with > * one being beneficial 
+> Williams eventually proposed his own hypothesis called **antagonistic pleiotropy**. *Pleiotropy, alone, means one mutation that cause multiple effects on phenotype*. 
+
+> Antagonistic pleiotropy on the other hand deals with one gene that creates two traits with 
+
+> * one being beneficial 
 > * and the other being detrimental. 
 > In essence, **this refers to genes that offer benefits early in life, but accumulate a cost later on**.
 
