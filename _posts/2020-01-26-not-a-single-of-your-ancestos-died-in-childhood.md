@@ -33,6 +33,7 @@ Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 19
 
 > * one being beneficial 
 > * and the other being detrimental. 
+
 > In essence, **this refers to genes that offer benefits early in life, but accumulate a cost later on**.
 
 > Although antagonistic pleiotropy is a prevailing theory today, this is largely by default, and has not been well verified. Research has shown that this is not true for all genes and may be thought of as partial validation of the theory, but it cuts the core premise: that **genetic trade-offs are the root cause of ageing**.
