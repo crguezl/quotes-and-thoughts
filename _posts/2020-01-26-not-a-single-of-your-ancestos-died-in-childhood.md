@@ -1,5 +1,5 @@
 
-## Not a single one of your ancestors did die in childhood
+# Not a single one of your ancestors did die in childhood
 
 > ... But another general quality that successful genes will have is a tendency to postpone the death of their survival machines at least until after reproduction. No doubt some of your cousins and great-uncles died in childhood, but not a single one of your ancestors did. Ancestors just don't die young!
 
@@ -12,7 +12,7 @@
 > 
 > Obviously lethal genes will tend to be removed from the gene pool. But equally obviously a late-acting lethal will be more stable in the gene pool than an early-acting lethal. A gene that is lethal in an older body may still be successful in the gene pool, provided its lethal effect does not show itself until after the body has had time to do at least some reproducing. For instance, a gene that made old bodies develop cancer could be passed on to numerous offspring because the individuals would reproduce before they got cancer. On the other hand, a gene that made young adult bodies develop cancer would not be passed on to very many offspring, and a gene that made young children develop fatal cancer would not be passed on to any offspring at all. According to this theory then, **senile decay is simply a by-product of the accumulation in the gene pool of late-acting lethal and semi-lethal genes, which have been allowed to slip through the net of natural selection simply because they are late-acting.**
 
-Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils
+Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 1976
 
 ## Mutation accumulation
 
