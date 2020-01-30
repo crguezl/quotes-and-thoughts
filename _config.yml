@@ -1,3 +1,11 @@
 title: Quotes and Thoughts
 subtitle: Casiano
 theme: jekyll-theme-midnight
+url: https://crguezl.github.io/quotes-and-thoughts/
+disqus: 
+  url: https://procesadores-de-lenguajes.disqus.com/embed.js
+  comments: true
+organization: 
+  url: https://github.com/crguezl/quotes-and-thoughts
+  name: crguezl
+  master: https://github.com/crguezl/quotes-and-thoughts/tree/master/

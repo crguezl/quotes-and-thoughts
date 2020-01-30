@@ -52,7 +52,7 @@ Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 19
 
 > Antagonistic pleiotropy suggests that genes have different effects at different stages of life. *For example, a gene that increases growth and fertility but also increases the risk of cancer in old age means more children but a shorter life span*. This gene would still spread in a given population because evolution favors survival of the gene, not the longevity of an individual life. One gene might have two different, unrelated effects (pleiotropy) that are seemingly at odds with one another (antagonistic). **Survival of the gene is always given priority over longevity of the individual**.
 
->   ...
+> ...
 
 > There is a particular gene that codes for a protein known as insulin-like growth factor 1 (IGF-1). High levels of IGF-1 promote growth, allowing organisms to grow larger, reproduce faster, and weather wounds better. That’s a huge advantage in the competition to survive in order to have children. However, in old age, high IGF-1 contributes to cancer, heart disease, and early death, and by that time, the gene has already passed into the next generation. When growth/reproduction comes up against longevity, evolution favors reproduction and high IGF-1 levels. This is the fundamental and natural balance between growth and longevity.
 
@@ -70,10 +70,3 @@ DiNicolantonio and Fung. *The Longevity Solution*
 
 Richard Dawkins, The Selfish Gene.. Chapter 3: Inmortal Coils
 
-## Hormesis
-
-> Hormesis is a phenomenon in which low doses of stressors that are normally toxic instead strengthen an organism and make it more resistant to higher doses of the same toxins or stressors. 
-
-> Exercise and calorie restriction are examples of hormesis. Exercise, for example, puts stress on muscles causing the body to react by increasing muscular strength. Weight-bearing exercise puts stress on bones, causing the body to react by increasing bone strength. Being bedridden or going into zero gravity, as astronauts do, causes rapid weakening of muscles and bones. Calorie restriction can be considered a stressor because it causes a rise in cortisol, commonly known as the stress hormone. This rise in cortisol increases the production of heat shock proteins (a family of proteins that help to stabilize new proteins or repair damaged ones) and resistance to subsequent stressors.
-
-DiNicolantonio, Dr. James. The Longevity Solution
