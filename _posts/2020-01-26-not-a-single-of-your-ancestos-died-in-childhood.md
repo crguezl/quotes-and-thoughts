@@ -3,7 +3,7 @@
 
 > ... But another general quality that successful genes will have is a tendency to postpone the death of their survival machines at least until after reproduction. No doubt some of your cousins and great-uncles died in childhood, but not a single one of your ancestors did. Ancestors just don't die young!
 
-> *A gene that makes it possessors die is called a **lethal gene***. A semi-lethal gene has some debilitating effect, such that it makes death from other causes more probable. Any gene exerts its maximum effect on bodies at some particular stage of life, and lethals and semi-lethals are not exceptions. 
+> A gene that makes it possessors die is called a **lethal gene**. A semi-lethal gene has some debilitating effect, such that it makes death from other causes more probable. Any gene exerts its maximum effect on bodies at some particular stage of life, and lethals and semi-lethals are not exceptions. 
 > * Most genes exert their influence during foetal life, 
 > * others during childhood, 
 > * other during young adulthood, 
@@ -13,6 +13,14 @@
 > Obviously lethal genes will tend to be removed from the gene pool. But equally obviously a late-acting lethal will be more stable in the gene pool than an early-acting lethal. A gene that is lethal in an older body may still be successful in the gene pool, provided its lethal effect does not show itself until after the body has had time to do at least some reproducing. For instance, a gene that made old bodies develop cancer could be passed on to numerous offspring because the individuals would reproduce before they got cancer. On the other hand, a gene that made young adult bodies develop cancer would not be passed on to very many offspring, and a gene that made young children develop fatal cancer would not be passed on to any offspring at all. According to this theory then, **senile decay is simply a by-product of the accumulation in the gene pool of late-acting lethal and semi-lethal genes, which have been allowed to slip through the net of natural selection simply because they are late-acting.**
 
 Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 1976
+
+## What is Aging?
+
+1. Aging is often obvious because of a change in appearance.
+2. We can view aging as a loss of function.
+3. At the cellular and molecular levels, response to hormones decreases with age.
+4. Increasing age exponentially increases the risk for disease and death.
+
 
 ## Mutation accumulation
 
@@ -25,7 +33,7 @@ Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 19
 
 ## Antagonistic pleiotropy
 
-> Medawar's theory was critiqued and later further developed by **George C. Williams in 1957**. Williams noted that **senescence** may be causing many deaths even if animals are not 'dying of old age.' He began his hypothesis with the idea that ageing can cause earlier senescence due to the competitive nature of life. Even a small amount of ageing can be fatal; hence natural selection does indeed care and ageing is not cost-free.
+> Medawar's theory was critiqued and later further developed by **George C. Williams in 1957**. 
 
 > Williams eventually proposed his own hypothesis called **antagonistic pleiotropy**. *Pleiotropy, alone, means one mutation that cause multiple effects on phenotype*. 
 
@@ -41,6 +49,14 @@ Richard Dawkins, The Selfish Gene. Chapter 3: Inmortal Coils. First Published 19
 > In breeding experiments, Michael R. Rose selected fruit flies for long lifespan. Based on antagonistic pleiotropy, Rose expected that this would surely reduce their fertility. His team found that they were able to breed flies that lived more than twice as long as the flies they started with, *but to their surprise, the long-lived, inbred flies actually laid more eggs than the short-lived flies*. This was another setback for pleiotropy theory, though Rose maintains it may be an experimental artifact.
 
 [Wikpedia: Antagonist Pleiothropy](https://en.wikipedia.org/wiki/Evolution_of_ageing#Antagonistic_pleiotropy)
+
+> Antagonistic pleiotropy suggests that genes have different effects at different stages of life. *For example, a gene that increases growth and fertility but also increases the risk of cancer in old age means more children but a shorter life span*. This gene would still spread in a given population because evolution favors survival of the gene, not the longevity of an individual life. One gene might have two different, unrelated effects (pleiotropy) that are seemingly at odds with one another (antagonistic). **Survival of the gene is always given priority over longevity of the individual**.
+
+...
+
+> There is a particular gene that codes for a protein known as insulin-like growth factor 1 (IGF-1). High levels of IGF-1 promote growth, allowing organisms to grow larger, reproduce faster, and weather wounds better. That’s a huge advantage in the competition to survive in order to have children. However, in old age, high IGF-1 contributes to cancer, heart disease, and early death, and by that time, the gene has already passed into the next generation. When growth/reproduction comes up against longevity, evolution favors reproduction and high IGF-1 levels. This is the fundamental and natural balance between growth and longevity.
+
+DiNicolantonio and Fung. *The Longevity Solution* 
 
 ## Consequences of Medawar Theory
 
