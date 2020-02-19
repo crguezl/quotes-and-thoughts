@@ -45,7 +45,7 @@
 
 # Carolyn Porco On the *Pale Blue Dot* Image
 
-> []... Perhaps the most poignant gesture of the Voyager mission was its final parting salute to its place of birth](https://blogs.scientificamerican.com/observations/how-the-celebrated-pale-blue-dot-image-came-to-be/). The portrait of the sun’s family of planets taken in early 1990 included an image of Earth.
+> [... Perhaps the most poignant gesture of the Voyager mission was its final parting salute to its place of birth](https://blogs.scientificamerican.com/observations/how-the-celebrated-pale-blue-dot-image-came-to-be/). The portrait of the sun’s family of planets taken in early 1990 included an image of Earth.
 
 > ... It is an ironic historical footnote to this story that the most difficult calculation of the bunch was the exposure for the Earth. As no spacecraft had ever taken an image of Earth when it was smaller than a pixel, and since the cloudiness of its atmosphere is so variable that its inherent brightness is hard to calculate or predict, there was no information available then to suggest confidently how long an exposure should be. Somehow, it all worked out.
 
