@@ -43,7 +43,7 @@
 
 -- Carl Sagan, Pale Blue Dot, 1994
 
-# Carolyn Porco: How the Celebrated “Pale Blue Dot” Image Came to Be
+# Carolyn Porco: How the *Pale Blue Dot* Image Came to Be
 
 > ... Perhaps the most poignant gesture of the Voyager mission was its final parting salute to its place of birth. The portrait of the sun’s family of planets taken in early 1990 included an image of Earth.
 
