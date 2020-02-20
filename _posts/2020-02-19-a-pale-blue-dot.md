@@ -51,7 +51,7 @@
 
 > ... The Pale Blue Dot image of Earth is not a stunning image. But that didn’t matter in the end, because it was the way that Carl romanced it, turning it into an allegory on the human condition, that has ever since made the phrase **Pale Blue Dot** and the image itself synonymous with an inspirational call to planetary brotherhood and protection of Earth.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCarolyn_Porco&psig=AOvVaw2dR3P0-EH2FFfhHNS7_zqM&ust=1582284128528000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjCoe6B4OcCFQAAAAAdAAAAABAD)
+![Carolyn Porco image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCarolyn_Porco&psig=AOvVaw2dR3P0-EH2FFfhHNS7_zqM&ust=1582284128528000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjCoe6B4OcCFQAAAAAdAAAAABAD)
 
 
 See also Carolyn Porco's TED TALK [This is Saturn](https://www.ted.com/talks/carolyn_porco_this_is_saturn?language=es)
