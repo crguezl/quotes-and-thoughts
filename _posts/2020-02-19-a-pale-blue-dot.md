@@ -50,3 +50,6 @@
 > ... It is an ironic historical footnote to this story that the most difficult calculation of the bunch was the exposure for the Earth. As no spacecraft had ever taken an image of Earth when it was smaller than a pixel, and since the cloudiness of its atmosphere is so variable that its inherent brightness is hard to calculate or predict, there was no information available then to suggest confidently how long an exposure should be. 
 
 > ... The Pale Blue Dot image of Earth is not a stunning image. But that didn’t matter in the end, because it was the way that Carl romanced it, turning it into an allegory on the human condition, that has ever since made the phrase **Pale Blue Dot** and the image itself synonymous with an inspirational call to planetary brotherhood and protection of Earth.
+
+
+See also Carolyn Porco's TED TALJ [This is Saturn](https://www.ted.com/talks/carolyn_porco_this_is_saturn?language=es)
