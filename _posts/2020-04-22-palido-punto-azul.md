@@ -1,9 +1,8 @@
 # Un Punto Azul Pálido
 
-> [Mira de nuevo ese punto](https://youtu.be/juhFnXCNQMI). 
-
 ![](https://upload.wikimedia.org/wikipedia/commons/7/72/Voyager_1_-_14_February_1990.png)
 
+> [Mira de nuevo ese punto](https://youtu.be/juhFnXCNQMI). 
 
 ![](https://i.etsystatic.com/12237256/r/il/e1ae97/1763397767/il_570xN.1763397767_1eku.jpg)
 
