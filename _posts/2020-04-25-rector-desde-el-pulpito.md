@@ -29,7 +29,7 @@ que empieza así:
 
 ![](https://i.pinimg.com/originals/03/0c/a0/030ca0845ce24ee9e31bd2e8371d57e3.jpg)
 
-Abenjacán parece tener mucho dinero y comienza la construcción de una enorme casa con forma de laberinto. Esto produce escándalo en Pentreath y el cura desde el púlpito, sin decir su nombre, censura a Abenjacán contando la historia de un rey a quien la Divinidad castiga por haber erigido un laberinto.
+Abenjacán (أبينجاكان) parece tener mucho dinero y comienza la construcción de una enorme casa con forma de laberinto. Esto produce escándalo en Pentreath y el cura desde el púlpito, sin decir su nombre, censura a Abenjacán contando la historia de un rey a quien la Divinidad castiga por haber erigido un laberinto.
 
 La historia que cuenta el rector de la iglesia es otro cuento dentro del mismo libro.
 Se titula **Los dos reyes y los dos laberintos**.
