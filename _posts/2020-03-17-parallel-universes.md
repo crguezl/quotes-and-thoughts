@@ -1,3 +1,6 @@
+---
+layout: minimal
+---
 
 # Parallel Universes
 

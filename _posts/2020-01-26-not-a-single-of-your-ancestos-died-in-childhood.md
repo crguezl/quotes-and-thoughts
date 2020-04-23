@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+---
+layout: minimal
+---
+
 # Not a single one of your ancestors did die in childhood
 
 > ... But another general quality that successful genes will have is a tendency to postpone the death of their survival machines at least until after reproduction. No doubt some of your cousins and great-uncles died in childhood, but not a single one of your ancestors did. Ancestors just don't die young!

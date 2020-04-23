@@ -1,3 +1,6 @@
+---
+layout: minimal
+---
 
 # Not a single one of your ancestors did die in childhood
 

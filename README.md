@@ -1,4 +1,5 @@
 ---
+layout: minimal
 permalink: /index.html
 ---
 # Citas y pensamientos. Favourite Quotes and Thoughts

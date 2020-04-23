@@ -1,3 +1,6 @@
+---
+layout: minimal
+---
 
 # A Pale Blue Dot
 
