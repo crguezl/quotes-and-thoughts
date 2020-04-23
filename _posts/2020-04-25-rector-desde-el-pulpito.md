@@ -6,7 +6,7 @@ layout: minimal
 
 Soy un lector perezoso y pocas veces reuno fuerzas para leer una novela larga.
 
-Por eso me gustan los libros de cuentos.
+Por eso prefiero los libros de cuentos.
 
 Hace mucho tiempo que leí *El Aleph*, 
 un cuento del escritor argentino Jorge Luis Borges, publicado en 1949 y reeditado  luego muchas veces por el autor y después de su muerte por María Kodama. 
