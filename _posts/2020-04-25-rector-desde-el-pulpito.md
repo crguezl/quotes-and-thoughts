@@ -13,7 +13,7 @@ un cuento del escritor argentino Jorge Luis Borges, publicado en 1949 y reeditad
 
 ![](https://3.bp.blogspot.com/-xyDA_BNg95M/TY_Q3GLZW0I/AAAAAAAACTM/PfGEB2qQvg8/s1600/hkgk.jpg)
 
-Aleph (&#x2135;) es la primera letra del Alfabeto Hebreo, es también el [primero de los números transfinitos](https://es.wikipedia.org/wiki/%C3%81lef_(cardinales)).
+Aleph (&#x2135;) en unicode hexadecimal `2135` es la primera letra del Alfabeto Hebreo y es también el [primero de los números transfinitos](https://es.wikipedia.org/wiki/%C3%81lef_(cardinales)).
 
 La obra contiene diecisiete cuentos. Uno de esos cuentos es 
 *Abenjacán el Bojarí, muerto en su laberinto*. 
