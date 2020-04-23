@@ -1,6 +1,9 @@
 title: Quotes and Thoughts
 subtitle: Casiano
-theme: jekyll-theme-midnight
+author: Casiano
+tags: [ 'Borges' ]
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-midnight
 url: https://crguezl.github.io/quotes-and-thoughts/
 disqus: 
   url: https://procesadores-de-lenguajes.disqus.com/embed.js
