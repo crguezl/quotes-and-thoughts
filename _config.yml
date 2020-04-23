@@ -5,7 +5,7 @@ tags: [ 'Borges' ]
 theme: jekyll-theme-minimal
 baseurl: '/quotes-and-thoughts'
 #theme: jekyll-theme-midnight
-url: https://crguezl.github.io/quotes-and-thoughts/
+github_url: https://crguezl.github.io/quotes-and-thoughts/
 disqus: 
   url: https://procesadores-de-lenguajes.disqus.com/embed.js
   comments: true
